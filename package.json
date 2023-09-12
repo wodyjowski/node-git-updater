@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "simple-git": "^3.19.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
